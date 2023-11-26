@@ -56,7 +56,7 @@ router.post('/stk',generateToken, async (req, res) => {
       PartyA: `254${phone}`, 
       PartyB: shortcode,
       PhoneNumber: `254${phone}`,    
-      CallBackURL: "https://403f-154-159-254-122.ngrok-free.app /api/payment/callback",    
+      CallBackURL: " https://6c73-41-89-129-11.ngrok-free.app/api/payment/callback",    
       AccountReference:"Artista Web agency",    
       TransactionDesc:"Payment of X"
     },
